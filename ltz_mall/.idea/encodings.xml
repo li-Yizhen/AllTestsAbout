@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../lyz_back" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../lyz_back/lyz_back_dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../lyz_back/lyz_back_dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../lyz_back/lyz_back_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../lyz_back/lyz_back_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../lyz_back/lyz_back_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../lyz_back/lyz_back_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../lyz_portal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../lyz_portal/lyz_portal_dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../lyz_portal/lyz_portal_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../lyz_portal/lyz_portal_web" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

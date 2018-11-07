@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ltz_mall" />
+        <module name="lyz_back_dao" />
+        <module name="lyz_back_service" />
+        <module name="lyz_back_web" />
+        <module name="lyz_portal_dao" />
+        <module name="lyz_portal_service" />
+        <module name="lyz_portal_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lyz_back_dao" target="1.7" />
+      <module name="lyz_back_service" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
